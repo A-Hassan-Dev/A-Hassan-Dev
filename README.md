@@ -32,7 +32,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Hassan-Dev&theme=algolia" alt="Mohamed-Eldeeb2008" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Hassan-Dev&theme=algolia" alt="Ahmed-Hassan" />
 </p>
 
 ---
@@ -114,7 +114,7 @@
 <p align="center">
 	<a href="mailto:15668555565563u@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/ahmedhassan-x/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/profile.php?id=61556290228674/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/ahmed.hassan.976056"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
 
 
