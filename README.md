@@ -106,13 +106,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Eldeeb-Dev&show_icons=true&layout=compact&theme=algolia" height="192px"/>
   </p>
 </details>
-
+<br/>
 ### 🏆 GitHub Trophies
   <p align="left">
   
 ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
-<br>
+<br/>
 
 ---
 
