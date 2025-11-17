@@ -107,7 +107,7 @@
   </p>
 </details>
 <br/>
----
+<hr>
  🏆 GitHub Trophies
   <p align="left">
   
