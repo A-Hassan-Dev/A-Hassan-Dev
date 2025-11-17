@@ -19,7 +19,7 @@
 ## 📁 Portfolio & Resume
 
 <p align="center">
-  <a href="https://shiny-wisp-1c1500.netlify.app/" target="_blank">
+  <a href="https://ahmed-topaz.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge">
   </a>
   &emsp;
