@@ -110,8 +110,6 @@
 </details>
 <br/>
 <hr>
-<br/>
-
 ---
 
 ## 🙋‍♂️ Let's Connect
