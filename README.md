@@ -85,8 +85,9 @@ Mobile app that detects & blurs NSFW content automatically
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Hassan-Dev&theme=algolia" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=footer&text=A-Hassan-Dev&fontSize=40"/>
 </p>
+
 
 ---
 
