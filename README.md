@@ -75,11 +75,6 @@ Desktop application for generating, scanning & managing barcodes
 **Tech:** Python · SQLite  
 🔗 *Coming Soon*
 
-### 🤖 AI Content Moderation App
-Mobile app that detects & blurs NSFW content automatically  
-**Tech:** Flutter · AI Models  
-🔗 *Coming Soon*
-
 ---
 
 
