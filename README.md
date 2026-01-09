@@ -122,7 +122,7 @@ Mobile app that detects & blurs NSFW content automatically
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statss
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hassan-Dev&theme=algolia">
