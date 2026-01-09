@@ -134,7 +134,7 @@ Mobile app that detects & blurs NSFW content automatically
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:ahmed.hassan.dev@gmail.com">
+  <a href="mailto:ahmedhassan.dev.1@gmail.com">
     <img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmedhassan-x/">
