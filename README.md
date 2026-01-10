@@ -117,7 +117,7 @@ Desktop application for generating, scanning & managing barcodes
 
 ---
 
-## 📊 GitHub Statss
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hassan-Dev&theme=algolia">
