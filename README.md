@@ -45,7 +45,7 @@ I specialize in building **clean, scalable, and secure applications**, following
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge">
   </a>
   &emsp;
-  <a href="[https://drive.google.com/file/d/1aTTbWDBUs8DFxIzRv1mMSrLVxYD-7dbQ/view?usp=sharing"](https://drive.google.com/file/d/1b-hI_U0gQqoMvY9H9OlxFi2tTlsSpSOK/view?usp=sharing) target="_blank">
+  <a href="https://drive.google.com/file/d/1aTTbWDBUs8DFxIzRv1mMSrLVxYD-7dbQ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Resume-View%20CV-brightgreen?style=for-the-badge">
   </a>
 </p>
